@@ -1,7 +1,7 @@
 # Pixyalator
  A Unity 2D/URP Package that allows different resolutions for different layers (Good for Modern Pixel Art Games)
 
-Inside is a unitypackage file. Simply open it with your unity project open and hit "Install".
+Download the latest Unity Package from the tags page. Simply open it with your unity project open and hit "Install".
 
 ## Usage
 Replace your Main Camera with the "Player Camera" Prefab and add additional scripts (such as player tracking) from there. 
