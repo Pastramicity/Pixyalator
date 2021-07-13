@@ -13,6 +13,9 @@ Set your preferred orthographic size in the "Size" field.
 
 If you'd wish to have a separate transform for camera movement, you can replace the "User Camera" field with that transform. (The Pix Cam script should work from anywhere/any object in the scene)
 
+### Script
+The *GetACamera()* method will give you the proper camera for usage in mouse position and similar uses. (It is an unused camera sitting on the "Player Camera" prefab. **If you are using your own player tracker, add a camera component to it**
+
 ### Layers
 Add as many PixCam Layers as you want in the "Layers" Field!
 The layers will be auto-sorted at runtime based off their "order" field.
